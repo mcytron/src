@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La conciencia tranquila</title>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="parte" n="1">
+         <div type="apartado" n="1"><p>La conciencia tranquila</p>
+
+            <p>Carmen Martín Gaite</p>
+
+<p>—Te lo estoy diciendo todo el día que no te lo tomes así. Te lo estoy diciendo todo el día, Luisa. Hace más de lo que puede. Que está cansado; si no me extraña. Muerto es lo que estará. Anda, tómate una taza de té por lo menos.</p>
+
+<p>Las últimas palabras sonaron con el timbre del teléfono. Mariano fue hacia él. No se había quitado la gabardina.</p>
+
+<p>—Es una profesión muy esclava —asintió la tía Dolores.</p>
+
+<p>—Diga...</p>
+
+<p>—...luego como él tiene ese corazón.</p>
+
+<p>—¿Cómo...?, no entiendo. Callar un momento, mamá. ¿Quién es?</p>
+
+            <p>Venía la voz d<rs type="place" ref="#PLACEPALOMABAR">el otro lado</rs> débil, sofocada por un rumor confuso, como si quisiera abrirse <rs type="place" ref="#PLACEHIPOTETICOCAMINO">camino a través de muchas barreras</rs>.</p>
+
+<p>—¿Está el doctor Valle?</p>
+
+<p>—Valle, sí, aquí es. Hable más alto porque se entiende muy mal. ¿De parte de quién?</p>
+
+            <p>Mila se puso de espaldas a los hombres, casi pegada a<rs type="place" ref="#PLACEPALOMABAR">l rincón, debajo de las botellas de cazalla</rs>. Acercó mucho los labios al auricular.</p>
+
+<p>—Diga, ¿es usted mismo?</p>
+
+            <p>—Sí, yo mismo. Pero ¿quién es <rs type="place" ref="#PLACEPALOMABAR">ahí</rs>?</p>
+
+<p>Tardó unos instantes en contestar; hablaba mejor con los ojos cerrados. Las manos le sudaban contra el mango negro.</p>
+
+<p>—Verá, me llamo Milagros Quesada, no sé si se acuerda; d<placeName ref="#PLACEDISPENSARIOSANFRANCISCO">el Dispensario de San Francisco de Oña</placeName> —dijo de un tirón.</p>
+
+<p>—Pero ¿cuántas veces con lo mismo? Llamen ustedes al médico del Seguro. ¿Yo qué tengo que ver con <placeName ref="#PLACEDISPENSARIOSANFRANCISCO">el Dispensario</placeName> a estas horas? ¿No tienen el médico del Seguro?</p>
+
+<p>—Sí, señor.</p>
+
+<p>—¿Entonces...?</p>
+
+<p>—Es que él ha dicho que se muere la niña, que no vuelve a verla porque, para qué.</p>
+
+<p>—¿Y qué quiere que yo haga?</p>
+
+<p>—Es que él no la entiende. Usted la puso buena el año pasado, ¿no se acuerda?, una niña de ocho años, rubita, se tiene que acordar, casi estaba tan mala como ahora, de los oídos... Yo le puedo pagar la visita, lo que usted cobre.</p>
+
+<p>—Pero mi teléfono, ¿quién se lo ha dado? ¿Sor María?</p>
+
+<p>—No, señor; lo tengo yo en una receta suya que guardé de entonces. Y es que el otro médico no sabe lo que tiene; si no viene usted, se muere; si viera lo mala que se ha puesto esta tarde, da miedo verla; se muere, da miedo...</p>
+
+            <p>Apoyaba el peso del cuerpo alternativamente sobre una pierna y sobre la otra, a medida que hablaba, de espaldas, metida en <rs type="place" ref="#PLACEPALOMAGASOLINERA">el rincón de la pared como contra la rejilla de un confesonario</rs>; y un hombre joven de <rs type="demonym">sahariana</rs> azul, con pinta de taxista, tenía fija la mirada en el balanceo de sus caderas. Otro dijo: «Callaros, tú, el Príncipe Gitano». Y levantaron el tono de <rs type="place" ref="#PLACELARADIO">la radio</rs>. Mila se echó a llorar con la frente apoyada en los azulejos. La voz del médico decía ahora:</p>
+
+<p>—Sí, sí, ya lo comprendo; pero que siempre es lo mismo, me llaman a última hora, cuando ya no se puede hacer nada. Si el otro doctor ha dicho que no se puede hacer nada, no será porque no la entiende, yo diré lo mismo también. ¿No lo comprende, mujer? ¿No comprende que si todas empezaran como usted tendría que quedarme a vivir en <placeName ref="#PLACEPUENTEVALLECAS">el Puente de Vallecas</placeName>? Yo tengo mis enfermos particulares, no puedo atender a todo.</p>
+
+            <p>...rosita de oro encendida, rosita fina de <placeName ref="#PLACEJERICO">Jericó</placeName>», chillaba la canción de aquel tipo <rs type="place" ref="#PLACELARADIO">allí mismo</rs>, encima. Mila se tapó el oído libre.</p>
+
+            <p>—Yo le pago, yo le pago —suplicó entrecortadamente. Y una lágrima se coló <rs type="place" ref="#PLACEHIPOTETICOCAMINOBAJOALTO">por las rayitas del auricular, a lo mejor hasta la cara del médico</rs>, porque tenía él un tono rutinario, aburrido de pronto, al decir: «No llore, veremos si mañana puedo a primera hora...» —y algo más que tal vez siguió. Pero ella sintió como si se pegara de bruces contra aquellas palabras desconectadas de lo suyo, y el coraje no le dejó seguir escuchando.</p>
+
+<p>—¿Qué dice de mañana? —interrumpió casi gritando—. Pero ¿no le estoy contando que se muere? ¿No me entiende? Le he dicho que le voy a pagar, que me cobra usted como a un cliente de los suyos. Tiene que ser ahora, verla ahora. Usted a un cliente de pago que le llamara ahora mismo no le pediría explicaciones, ¿no...?</p>
+
+<p>Mariano tuvo una media sonrisa; miró el reloj de pulsera.</p>
+
+<p>—...pues yo igual, me busco las perras y listo, usted no se preocupe.</p>
+
+<p>—Si no es eso, mujer, qué disparates dice.</p>
+
+<p>—¿Disparates, por qué? —se revolvió todavía la chica.</p>
+
+<p>Pero sin transición la voz se le abatió apresuradamente.</p>
+
+<p>—Perdone, usted perdone, no sé ni lo que digo. Y por favor, no deje de venir.</p>
+
+<p>—Bueno, a ver, ¿dónde es?</p>
+
+<p>Eran las ocho menos diez. Le daba tiempo de avisar a Isabel; a lo mejor se enfadaba un poco, pero éste seguramente era un caso rápido que se liquidaba pronto; le diría: «Voy para <rs type="place" ref="PLACEPUENTEVALLECAS">allá</rs>, cariño. Ponte guapa. Es un retraso de nada».</p>
+
+            <p>—<placeName ref="#PLACECHABOLASPALOMA">Chabolas de la Paloma</placeName>, <placeName ref="#PLACECHABOLASPALOMA5">número cinco</placeName>.</p>
+
+<p>—¿Cómo dice? ¿Antes de llegar a <rs type="place" ref="#PLACEPALOMAGASOLINERA">la gasolinera</rs>?</p>
+
+            <p>—No, verá, hay que pasar <rs type="place" ref="#PLACEPALOMACRUCE">el cruce</rs> y torcer <rs type="place" ref="#PLACECHABOLASPALOMA5">más arriba, a la izquierda</rs>... y si no, es mejor una cosa. ¿Va a venir pronto?</p>
+
+<p>—Unos veinte minutos, lo que tarde en el coche.</p>
+
+            <p>—Pues yo le estoy llamando desde <rs type="place" ref="#PLACEPALOMABAR">el bar que hay en la otra esquina de la gasolinera</rs>, así que le espero allí para acompañarle, porque si no se acuerda de dónde es <rs type="place" ref="#PLACECHABOLASPALOMA5">la casa</rs>, no va a acertar.</p>
+
+<p>—Bueno, de acuerdo.</p>
+
+            <p>—En <rs type="place" ref="#PLACEPALOMABAR">el bar de la gasolinera</rs>, ¿eh?, ya sabe.</p>
+
+            <p>«Es algo de dinero, seguro» —pensó el hombre de la <rs type="demonym">sahariana azul</rs>, que, con la música de la radio sólo pudo cazar alguna palabra del final, de cuando la chica había hablado más alto; y la miró ahora quedarse suspensa con el teléfono en la mano, igual que si agarrara la manga vacía de una chaqueta, dejarlo enganchado sin prisas por la argolla y volver finalmente un rostro sofocado, con huellas de lágrimas, qué cosa más bonita, madre mía. «Riña de novios, seguro; el otro la ha colgado. ¡Y qué cuerpo también!» Ahora se estaba saliendo fuera del mostrador. «Gracias, señor Julián», dijo hacia el tabernero que ni siquiera la oyó, y se quedó un rato vacilante en mitad d<rs type="place" ref="#PLACEPALOMABAR">el local</rs>, mirando para <rs type="place" ref="#PLACECALLE?">la calle</rs> a través del rectángulo de la puerta. <rs type="place" ref="#PLACECALLE?">La calle</rs> tenía una luz distinta: era como salir de lo oscuro a la luz; había empezado a llover un poco, debía de haber por alguna parte arco iris, y de pronto la gente revoloteaba en torno a<rs type="place" ref="#PLACEPUESTOTABACO?">l puesto de tabaco</rs>, muchachas con rebecas coloradas. Al lado de la primera ventana había una mesa y el chico la estaba limpiando con un paño mojado.</p>
+
+<p>—¿Va a tomar algo?</p>
+
+<p>Se sentó. Tenía las piernas flojas y por dentro de la cabeza aquel ruido de túnel del teléfono.</p>
+
+<p>—Bueno, un vaso de tinto.</p>
+
+            <p>Enfrente estaba <rs type="place" ref="#PLACEPALOMAGASOLINERA">la gasolinera</rs>. Desde allí se esperaba bien.</p>
+
+<p>—Oye, niña: ¿me dejas que te haga compañía? Levantó los ojos al hombre que apoyaba las manos en el mármol de su mesa. No le conocía. Se encogió de hombros, luego volvió a mirar afuera. El hombre de la <rs type="demonym">sahariana</rs> azul se sentó.</p>
+
+<p>—Chico, tráete mi botella del mostrador y dos vasos. Me dejarás que te invite, ¿no, preciosa?</p>
+
+<p>Ella bajó los ojos a la mesa. Tenía algunas canas. Dijo:</p>
+
+<p>—Da lo mismo.</p>
+
+<p>Veinte minutos, lo que tardara en el coche. Mejor en compañía que sola. Mejor que sola cualquier cosa.</p>
+
+<p>Necesitaba beber un poco, después de lo descarada que había estado con el médico. El primer vaso se lo vació de un sorbo. El hombre de enfrente la contemplaba con curiosidad.</p>
+
+<p>—¿Cómo te llamas?</p>
+
+<p>—Mila. Milagros.</p>
+
+<p>—Un nombre bonito. Toma más vino.</p>
+
+            <p>Se sentía intimidado sin saber por qué. Le daba rabia, con lo fácil que estaba siendo todo. Ella no dejaba de mirar la lluvia, <rs type="place" ref="#PLACEPALOMAGASOLINERA">la gasolinera</rs> pintada de azul.</p>
+
+<p>—¿Qué piensas, guapa?</p>
+
+<p>—Nada. Contesta enseguida ¿si o no?</p>
+
+<p>—Sí. Desde luego, sí. A ti sólo se te puede decir que sí.</p>
+
+<p>Que sí. Lo había dicho por tres veces. Que se iba a morir Andrea. Y sin embargo no tenía ganas de llorar ni se sentía mal, como si todo aquello lo estuviese sufriendo otra persona. Estaba muy cansada, tres noches sin dormir. El vino daba calor y sueño.</p>
+
+<p>—Cuéntame algo, Milagros. No eres muy simpática.</p>
+
+<p>—Estoy cansada. No tengo ganas de hablar.</p>
+
+<p>—¿Cansada, mujer? De trabajar es de lo único que se cansa uno.</p>
+
+<p>—Pues de eso.</p>
+
+<p>—Anda, que trabajas tú; será porque te da la gana.</p>
+
+<p>—Pues ya ves.</p>
+
+<p>—...con esa cara y ese cuerpo.</p>
+
+            <p>—Por eso mismo. No tengo más que dos soluciones en <rs type="place" ref="#PLACEPPUENTEVALLECAS">este barrio</rs>. O friego suelos o lo otro. Ya sabes.</p>
+
+<p>—¿Y friegas suelos?</p>
+
+<p>—Por ahora sí. Fíjate cómo llueve.</p>
+
+            <p>El chaparrón de septiembre había arreciado. Por <placeName ref="#PLACEATOCHA">Atocha</placeName> venía el agua en forma de violenta cortina, tan oblicua que Mariano tuvo casi que parar el coche. Luego fue reemprendiendo la marcha despacio. Las gotas de lluvia rechazadas a compás por el parabrisas se aglomeraban en el cristal formando arroyos. En la radio estaban tocando un bolero de los del verano. Mariano seguía el ritmo chasqueando la lengua contra los dientes de arriba y moviendo un poquito la cabeza. Pensó en Isabel, en los últimos días de agosto en <placeName ref="#PLACEFUENTERRABIA">Fuenterrabí</placeName>a, todo tan dorado y brillante. Isabel en maillot, sobre el balandro; Isabel en traje de noche y con aquel jersey blanco, sin mangas, con aquel sobretodo. Bostezó. Pronto el invierno otra vez. Se abría <placeName ref="#PLACEAVENIDACIUDADBCN">la avenida del Pacífico</placeName> desceñida y mezclada de olores diversos, con <rs type="place" ref="#PLACECASAARRABALAVENIDACIUDADBCN">sus casas de arrabal</rs>. La gente caminaba contra la lluvia, cada cual por su camino, separados. Llegó al <placeName ref="#PLACEPUENTEVALLECAS">Puente de Vallecas</placeName> y siguió <rs type="place" ref="#PLACEAVENIDACIUDADBCN">hacia arriba en la línea recta</rs>. Había amainado la lluvia; se agrupaban personas alrededor de <rs type="place" ref="#PLACEMETROPUENTEVALLECAS">la boca del Metro</rs> y a la entrada de <rs type="place" ref="#PLACECINEPUENTEVALLECAS">un cine con Marilyn Monroe pintada enorme como un mascarón</rs>. Estaba llegando a <rs type="place" ref="#PLACEBORDESCIUDAD">los bordes de la ciudad, por donde se desintegra y se bifurca</rs>. Todavía por <rs type="place" ref="#PLACEAVENIDACIUDADBCN">la cuesta arriba</rs>, <rs type="place" ref="#PLACECASAARRABALAVENIDACIUDADBCN">las casas de <rs type="place" ref="#PLACEAVENIDACIUDADBCN">aquella calle central</rs></rs> tenían una cierta compostura, no delataban nada; pero de <rs type="place" ref="#PLACEBOCACALLES?">todas las bocacalles</rs> salían hombres y mujeres y él los conocía, conocía sus covachas y perdederos, sabía que les estaba entrando el agua por los zapatos y que les seguiría entrando en diciembre. Sabía sobre todo que eran muchos, enjambres, que cada día se multiplicaban, emigraban de <rs type="place" ref="#PLACEOTROSSITIOS?">otros sitios más pobres</rs> y propagaban ocultos <rs type="place" ref="#PLACECASAARRABALAVENIDACIUDADBCN">detrás de <rs type="place" ref="#PLACEAVENIDACIUDADBCN">esta última calle</rs></rs>, como un contagio, <rs type="place" ref="#PLACECHABOLAS?">sus viviendas de tierra y adobes</rs>. Alguna vez salían. Eran tantos que podían avanzar contra <rs type="place" ref="#PLACECENTROMADRID">el cogollo de la ciudad</rs>, invadirla, contaminarla. Mariano cerró la radio. La gente de <rs type="place" ref="#PLACEBOCACALLES?">las bocacalles</rs> le miraba pasar en su coche. Algunos se quedaban quietos, con las manos en los bolsillos. Pensó: «Se están preparando. Ahora echarán a andar y me acorralarán. Como en una película del <rs type="place" ref="#PLACELEJANOOESTE">Oeste</rs>. Como en <hi rend="italic">Solo ante el peligro</hi>». Luego se sacó un pitillo y lo encendió con la mano izquierda.</p>
+
+<p>—Cuidado que soy imbécil —dijo echando el humo—. Encima de que a la mayoría de ellos los he puesto buenos de algo.</p>
+
+            <p>Junto a <rs type="place" ref="#PLACEPALOMAGASOLINERA">la gasolinera</rs> detuvo el coche. A lo primero no vio a nadie allí. Enseguida se abrió la puerta d<rs type="place" ref="#PLACEPALOMABARGASOLINERA">el bar</rs> y salió corriendo una chica, cruzándose la rebeca sobre el pecho. Se volvió a medio camino para contestar a algo que le decía un hombre que había salido detrás de ella. El hombre la alcanzó, la quiso coger por un brazo, y ella se separó bruscamente, llegó al lado del coche, Mariano le abrió la puerta de delante.</p>
+
+<p>—Suba.</p>
+
+<p>—¿Aquí con usted?</p>
+
+<p>—Sí, ande, aquí mismo. ¿Es muy lejos?</p>
+
+<p>El hombre los miraba con ojos de pasmo. Se había acercado un poco. Al echar a andar, oyó Mariano que decía:</p>
+
+<p>—Joroba, chica, así ya se puede.</p>
+
+<p>Pero ni él ni la chica le miraron.</p>
+
+            <p>—¿Muy lejos? No, señor. Siga hasta <rs type="place" ref="#PLACEBPALOMACALLECASA?">la segunda a la izquierda</rs>.</p>
+
+<p>—¿Qué tal la enferma?</p>
+
+<p>—No sé. No he vuelto por esperarle. La dejé con una vecina.</p>
+
+<p>—¿No tienen ustedes padres?</p>
+
+<p>—No, señor. La niña no es mi hermana, es hija mía.</p>
+
+<p>—¡Ah! ¿Y el padre?</p>
+
+<p>—No sé nada. En <placeName ref="#PLACEJAEN">Jaén</placeName> estará.</p>
+
+<p>Mariano se volvió a mirar a Mila. Estaba inclinada de perfil, mirándose las manos enlazadas sobre su regazo. Llevaba una falda de tela de flores.</p>
+
+<p>—Ya me acuerdo. Usted fue una que también estuvo enferma el año pasado o el anterior. ¿No tuvo una infiltración en el pulmón?</p>
+
+<p>—Sí, señor. Perdone que antes le hablara un poco mal.</p>
+
+<p>No había alzado los ojos. Miraba ahora los botones niquelados, el reloj, el cuentakilómetros.</p>
+
+<p>—Qué tontería, mujer. ¿Tuerzo por aquí?</p>
+
+<p>—Sí. Por aquí.</p>
+
+            <p>Pasaron <rs type="place" ref="#PLACECARBONERIA">la carbonería</rs>, <rs type="place" ref="#PLACEULTIMASCASAS?">las últimas casas bajitas</rs>. Empezó <rs type="place" ref="#PLACECAMPO?">el campo</rs>.</p>
+
+<p>—¿Y ya está usted bien?</p>
+
+<p>—Yo creo que sí. Ya casi no me canso.</p>
+
+            <p>—Vaya una mañana por <rs type="place" ref="#PLACEDISPENSARIO">el Dispensario</rs>, de todos modos, que la vea por rayos X.</p>
+
+            <p>—Bueno. Es <rs type="place" ref="#PLACECHABOLAPALOMA?">aquí a la vuelta</rs>. Deje el coche. Con el coche no puede ir <rs type="place" ref="#PLACECHABOLAPALOMA?">más allá</rs>.</p>
+
+            <p>No se veían <rs type="place" ref="#PLACECHABOLASPALOMA?">casas</rs>. Dejaron el auto en <rs type="place" ref="#PLACEBPALOMACALLECASA?">el camino</rs>.</p>
+
+            <p>Había un perro en <rs type="place" ref="#PLACECHABOLASPALOMABASURA">un montón de basura</rs>. Bajaron por un desnivel de la tierra. Caía la lluvia por unos peldaños excavados del uso y formaba un líquido marrón. Abajo unos niños pequeños recogían el barrillo en latas de conserva vacías. No se apartaron.</p>
+
+<p>—Quita, Rosen —dijo la chica dándole a uno con el pie.</p>
+
+<p>—Mira, Mila, chocolate express —dijo el niño enseñándole las manos embadurnadas.</p>
+
+<p>Al final de las escalerillas apareció una hondonada rodeada de puertas excavadas en la tierra, diseminadas desigualmente, repartidas a lo largo de pequeños callejones. Ya estaba bastante oscuro. Blanqueaba lo caleado.</p>
+
+<p>—Tenga cuidado por dónde pisa —advirtió la chica a Mariano—. Se pone esto perdido en cuanto caen cuatro gotas. Luego se adelantó y separó la cortina que estaba tapando una de las puertas. Mariano se tropezó con un puchero de geranios.</p>
+
+<p>—Espere. Pase.</p>
+
+<p>Se vio dentro la sombra de una persona que se levantaba.</p>
+
+<p>—¿Qué tal, Antonia?</p>
+
+<p>—Yo creo que peor. Ha estado delirando. ¿Traes al médico?</p>
+
+<p>—Sí. Enciende el carburo, que vea. Pase. Está aquí.</p>
+
+<p>A la luz del candil de carburo se vio un pequeño fogón, y a la derecha la cama donde estaba acostada la niña. Era rubia, de tez verdosa. Respiraba muy fuerte. Se acercaron.</p>
+
+<p>—A ver. Incorpórela.</p>
+
+<p>—Andrea, mira, ha venido el que te puso buena de la otra vez.</p>
+
+<p>La niña entreabrió unos ojos muy pálidos. Dijo:</p>
+
+<p>—Más que tú... más que ninguna. Todo de oro.</p>
+
+<p>—Tome otra almohada, si quiere.</p>
+
+<p>—Usted sujétela bien a ella. Así. La espalda.</p>
+
+<p>La niña se debatía. Jadeaba.</p>
+
+<p>—Qué miedo. Tiros... tiros.</p>
+
+<p>—Quietecita. Quietecita.</p>
+
+<p>Vinieron a la puerta más mujeres. Se pusieron a hablar cuchicheando. Salió la vecina que estaba dentro.</p>
+
+<p>—Callaros, este médico se enfada mucho cuando habla la gente. Es muy serio este médico.</p>
+
+<p>—¿Qué dice? Es el que puso bueno a mi marido.</p>
+
+<p>—No sé, no ha dicho nada todavía. Ahora le anda mirando los oídos. Total no sé para qué. Está ya medio muerta.</p>
+
+<p>—Criaturita.</p>
+
+<p>—Mejor que se muera, si va a quedar con falta.</p>
+
+<p>—Sí. Eso sí. Nunca se sabe lo que es lo mejor ni lo peor.</p>
+
+<p>Mila estaba inmóvil, levantando el candil. Mariano miró un instante su rostro iluminado.</p>
+
+<p>Luego se salió a la débil claridad de la puerta y ella le siguió.</p>
+
+<p>—Dice usted que la última inyección de estreptomicina se la han puesto a las cinco.</p>
+
+<p>—Sí, señor.</p>
+
+<p>—¿Quiere lavarse? —preguntó la vecina que había vuelto a entrar y estaba un poco apartada.</p>
+
+<p>—No. Es lo mismo. No tiene usted padres, dice, ni parientes.</p>
+
+<p>Mila se echó a llorar. Asomaron los rostros de las otras mujeres.</p>
+
+<p>—Una tía en Ventas, pero no nos hablamos. ¿Es que se muere?</p>
+
+<p>—Es un caso gravísimo. Hay que hacer una operación en el cerebro. A vida o muerte. Si se le hace enseguida, hay alguna esperanza de que pueda sobrevivir. Usted verá. Yo puedo acompañarla al Hospital del Niño Jesús en mi coche.</p>
+
+<p>—¿Qué hago? ¿Qué hago? Dígamelo usted, por Dios, lo que hago.</p>
+
+<p>—¿Qué quiere que le diga, hija mía? Ya se lo he dicho. Aquí, desde luego, se muere sin remedio.</p>
+
+<p>—Vamos —dijo Mila.</p>
+
+<p>Mariano miró el reloj.</p>
+
+<p>—Venga. Échele un abrigo o algo. No se ande entreteniendo en vestirla del todo.</p>
+
+<p>A Mila le temblaban las manos. Había destapado el cuerpo flaco de la niña y estaba tratando de meterle unas medias de sport.</p>
+
+<p>—Ese mantón, cualquier cosa.</p>
+
+<p>—Mujer —dijo la vecina, acercándole el mantón—. También si se te muere allí en el hospital...</p>
+
+<p>La niña respiraba con un ronquido seco. La piel le quemaba. Mila levantó un rostro contraído.</p>
+
+<p>—¿Y qué más da en el hospital que aquí? Mejor allí, si vas a mirar. ¿No has oído que aquí se muere de todas formas?</p>
+
+<p>Arrebujó a la niña en una manta y la cogió en brazos.</p>
+
+<p>—Dame, que te ayude.</p>
+
+<p>—No, no. Quita.</p>
+
+<p>—Traer un paraguas, oye, o algo. Corre.</p>
+
+<p>Lo trajo de su casa una mujer. Un paraguas pardo muy grande. Lo abrió detrás de Mila. Salieron. Estaba lloviendo mucho. Las vecinas agrupadas abrieron calle. Luego echaron a andar detrás. El rostro de Andrea colgaba por encima del hombro de Mila; sólo una manchita borrosa a la sombra del paraguas.</p>
+
+<p>—Angelito.</p>
+
+<p>—Tiene los ojitos metidos en séptima.</p>
+
+<p>El médico se adelantó a abrir el coche. Subieron los peldaños. Los niños de antes ya no estaban. Casi no se distinguían unas de otras las caras de las mujeres que iban siguiendo el cortejo. Mila había dejado de llorar. Colocó a la niña echada en el asiento de atrás y ella se sentó en el borde, sujetándole la cabeza contra su regazo.</p>
+
+<p>—¿Quieres que vaya contigo? —preguntó Antonia metiendo la cabeza.</p>
+
+<p>—No, no. Voy yo sola. Gracias. Déjalo.</p>
+
+<p>Cerraron la portezuela. Dentro del auto estaba muy oscuro.</p>
+
+<p>—Andrea, mira qué bien, bonita, en coche —dijo inclinándose hacia la niña, que había dejado de agitarse.</p>
+
+<p>Mariano puso el motor en marcha y las mujeres se quedaron diciendo adiós en lo alto del desmonte. Al salir a la calle del centro, ya había luces encendidas, y allá lejos, al terminar la cuesta, se veía el vaho morado de Madrid, de los anuncios de colores, y perfiles de altos edificios contra el cielo plomizo. Pasaron otra vez por el bar de la gasolinera.</p>
+
+<p>—Vaya deprisa —le dijo Mila al médico—. ¿La podrán operar enseguida?</p>
+
+<p>—Espero que sí. Es usted muy valiente.</p>
+
+<p>La niña estaba tranquila ahora. Mila no se atrevía a mirarle la cara ni a mover de postura la mano que había puesto en su mejilla. No quitaba los ojos del cogote del médico.</p>
+
+<p>—No, no soy valiente —dijo con un hilo de voz. Luego cerró los ojos y se echó un poco hacia atrás.</p>
+
+<p>Estaba mareada del vino de antes; las piernas, de tan flojas, casi no se las sentía. Así, con la cabeza apoyada en el respaldo, notando sobre sus rodillas el peso del cuerpo de Andrea, se sintió tranquila de repente. Si abría los ojos, veía las luces de la calle y los hombros del médico. Qué bien se iba. Era casi de noche. Las llevaba el médico a dar un paseo a las dos. Un paseo muy largo, hasta muy lejos. A Andrea le gustaban mucho los autos. El médico guiaba el coche y las llevaba. Ella no tenía que hacer nada ni pensar nada. Lo malo es cuando hay que tomar una decisión, cuando le hostigan a uno a resolver solo las cosas. Ahora no. Ahora dejarse llevar por las calles.</p>
+
+<p>Abrió los ojos bruscamente. Un paso de peatones. Un frenazo. El auto se había iluminado de luces vivas. Mariano volvió la cabeza.</p>
+
+<p>—¿Qué tal va esa enferma?</p>
+
+<p>Y vio el rostro de Mila que le miraba ávidamente con ojos de terror. Estaba rígida, con las manos separadas hacia atrás.</p>
+
+<p>—Mírela usted —dijo con voz ahogada—. Yo no me atrevo a mirarla. No me atrevo, no me atrevo. Usted mire y me lo dice. No la quiero ni tocar. No puedo. ¡No puedo...!</p>
+
+<p>Apartó la cabeza hacia la ventanilla, escurriendo el contacto del otro cuerpo, agitada por un temblor espantoso. Se mordía las uñas de los dos pulgares. Allí al lado, esperando también la luz verde para pasar, había otro coche, y dentro un perro de lanas negro la miraba con el hocico contra su ventanilla.</p>
+
+<p>—Dígamelo enseguida lo que sea —pidió casi gritando.</p>
+
+<p>Mariano, arrodillado en el asiento, vio el rostro sin vida de la niña, sus ojos inmóviles abiertos al techo del auto. Alargó un brazo para tocarla. Mila había empezado a llorar convulsivamente y hacía mover con sus rodillas el rostro de la muerta. Mariano le cerró los ojos y le subió la manta hasta taparle la cara. Bajó el respaldo de delante.</p>
+
+<p>—Ya no se puede hacer nada. Lo siento. Pase usted aquí conmigo, ande, yo la acompaño. Ande mujer, por favor. Aquí no nos podemos parar mucho.</p>
+
+<p>Mila se saltó al asiento de delante. Le había dado una tiritona que le sacudía todo el cuerpo con violencia. Se abrazó a Mariano y se escondió contra su pecho. La sentía frenéticamente pegada a él, impidiéndole cualquier movimiento, sentía la forma de su cuerpo debajo de la blusa ligera. Los coches empezaron a circular. Hizo un movimiento para separarla.</p>
+
+<p>—Vamos, vamos, mujer, no se ponga así.</p>
+
+<p>—La niña. Mírela. No se vaya a caer al suelo.</p>
+
+<p>Hablaba tartamudeando, resistiéndose a sacar la cabeza de su escondite. Los sollozos la estremecían.</p>
+
+<p>—No se preocupe de nada. Yo la acompaño hasta su casa, yo saco la niña y lo hago todo. Pero suélteme. No me deja conducir.</p>
+
+<p>Mila se separó con la cara descompuesta, agarró el brazo que ya guiaba de nuevo.</p>
+
+<p>—¡A casa no, por Dios, a casa no! Ya es de noche. A casa no, qué horror. Lléveme a otro sitio.</p>
+
+<p>—Pero ¿adónde, mujer? No diga disparates. Tenemos que llevar a la niña. No me ponga nervioso.</p>
+
+<p>—Por eso. No me quiero quedar sola con ella por la noche. No la quiero ver. No la quiero ver más. ¡Yo a casa no vuelvo! La dejamos en el Depósito o donde sea, y a mí me lleva usted a otro sitio.</p>
+
+<p>Le agarraba la manga derecha, se la besaba, llenándosela de lágrimas y de marcas rojizas de los labios. Daba diente con diente.</p>
+
+<p>Mariano le pasó un momento la mano por los hombros.</p>
+
+<p>—Vamos. Tranquilícese. Allí en el barrio no está usted sola. Están aquellas mujeres que la conocen y la acompañarán. Levante la cabeza, por favor; me va a hacer tener un accidente.</p>
+
+<p>Ya habían dado la vuelta y emprendían otra vez el mismo camino.</p>
+
+<p>—Le digo que no. Al barrio no. No quiero a nadie allí. No tengo a nadie. ¿Cómo voy a volver a esa casa? Lléveme con usted.</p>
+
+<p>—¿Conmigo? ¿Adónde?</p>
+
+<p>—Usted tendrá algún sitio en su casa. Tendrá una casa grande. Aunque no sea más que esta noche. Me pone una silla en cualquier rincón y allí me estoy. Yo se lo explico a su mujer, o a su madre, o a quien sea. Sólo hasta mañana. Y a lo mejor mañana me quieren de criada.</p>
+
+<p>Mariano continuó calle adelante. Aunque llevaba los ojos fijos en la calle, sabía que Mila estaba allí, vuelta de perfil, colgada de lo que él decidiera, y no era capaz de abrir los labios.</p>
+
+<p>—Yo comprendo muy bien lo que usted siente —dijo con pausa—. Pero se tiene que fiar de lo que yo le digo, porque usted no es dueña de sí. Allí en el barrio hay gente que la quiere. Esta tarde lo he visto. Volver allí es lo mejor, créame, lo más razonable.</p>
+
+<p>Mila sacó una voz rebelde, como la de antes por teléfono.</p>
+
+<p>—¡Dice usted que comprende! ¡Qué va usted a comprender! Ni lo huele siquiera lo que me pasa a mí. ¿Cómo quiere que vuelva a ese barrio? ¿A esa casa? ¿A esa casa? ¿A seguirme descrismando y siendo decente? ¿Y para quién? Si vuelvo es para echarme a la vida. Si vuelvo, se acabó; todo distinto, ya se lo digo desde ahora. Esta misma noche salgo de penas.</p>
+
+<p>—No diga disparates. El miércoles hablo yo con Sor María para que se ocupen un poco de usted, ya que no tiene ningún familiar.</p>
+
+<p>—Gracias —dijo Mila con resentimiento—. Pero no se moleste. No necesito los cuatro trapos de caridad que me vayan a dar. Si vuelvo al barrio, le juro por mi madre que lo que voy a hacer es lo que le he dicho.</p>
+
+<p>Mariano dijo, sin volverse.</p>
+
+<p>—Ya es usted mayor. Usted sabrá. A lo mejor mañana piensa otra cosa. Ahora no sabe ni lo que dice.</p>
+
+<p>Mila se arrebujó en la esquina y no volvió a decir nada. Se tapó los ojos con las manos, luego subió los pies al asiento, enroscada, sintiendo el calor de su propio cuerpo, como un caracol. Una mano y otra. Las rodillas. El vientre. No se le quitaba la tiritona. El médico siguió dando algunos consuelos y luego dejó de hablar también. Sabía que la miraba de vez en cuando. Luego se pararon y debió de avisar él por algún niño, porque enseguida vinieron las mujeres, alborotando mucho, pero ella esperó y no se movió de su postura hasta que la sacaron a la fuerza de allí. A la niña la debieron sacar antes, unos ruidos que oyó. No quería mirar a ninguna parte. Tenía las manos heladas.</p>
+
+<p>Mariano se quedó en lo alto del desnivel, mirando cómo la arrastraban las otras hacia el hoyo de casitas caleadas. Esperó que volviera la cara para mirarle, que le dijera alguna última palabra, pero no lo hizo. Todavía la podía llamar. Formaba un bulto con las mujeres, una mancha que se movía peldaños abajo, y se alejaba el rumor de las palabras que le iban diciendo las otras y de sus hipos amansados. Ya era noche cerrada. Se habían roto las nubes y dejaban charcos de estrellas. Mariano subió al coche. Abrió las ventanillas de par en par. Eran casi las diez. Isabel se habría enfadado. Por la calle del centro puso el coche a ochenta, entraba un aire suave y húmedo. Siempre con los retrasos. «Y seguro que por un enfermo que no era de pago», le iba a decir Isabel. Pero no podía pensar en Isabel. Que se enfadara, que se pusiera como fuese. Esta noche no la llamaba. Se le cruzaba la carita de Mila abrazada contra su solapa. Lléveme a algún sitio. Lléveme. Lléveme. Todavía podía volver a buscarla. </p>
+
+<p>Puso el coche a cien. Llevarla a algún sitio aquella misma noche. No hacia falta que fuera en su casa. Al estudio de Pancho, que estaba en América. Le gustaría estar allí. Se podía quedar él con ella. «Mamá, que no voy a cenar.» Pero Dios, qué estupideces. Puso el coche a ciento diez. Pasó la boca del Metro. Ya estaba fuera del barrio. Respiró. Estaba loco. Había hecho mucho más de lo que tenía que hacer. Mucho más. Sin obligación ninguna. Otro no se hubiera tomado ni la mitad de molestias. Estaba loco. Remorderle la conciencia todavía. Si se liaba con uno, él qué tenía que ver. Como si fuera la primera vez que pasa una cosa semejante. A saber. Igual era una elementa de miedo, igual estaba harta de correr por ahí. A casa la iba a llevar; menuda locura. Y sobre todo que él no tenía que ver nada. Le hablaría a Sor María el miércoles. Corría el coche por las calles y Mariano se sentía mejor. A Isabel no le diría nada de que la niña se había muerto en el asiento de atrás. Capaz de tener aprensión, con lo supersticiosa que era, y de no querer volver a montar. Una ducha se daba en cuanto llegase. Pero antes llamaba a Isabel. Claro que la llamaba. Aunque riñesen un poco. Qué ganas tenía ya de casarse de una vez.</p>
+
+<p>En Cibeles se detuvo con la riada de los otros coches. Se había quedado una noche muy hermosa.</p>
+         </div></div>
+      </body>
+  </text>
+</TEI>
